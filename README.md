@@ -1,6 +1,6 @@
 # Hi there, I'm Bagus Setiawan! 👋
 
-### 👨‍💻 Frontend Developer | React.js & Next.js Enthusiast
+### Frontend Developer | React.js & Next.js Enthusiast
 
 Welcome to my GitHub profile! I am a software developer specialized in **Frontend Development**, with a passion for crafting responsive, interactive, and pixel-perfect user interfaces.
 
@@ -27,7 +27,7 @@ I use this public GitHub primarily to:
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
