@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I am a software developer specialized in **Fronten
 
 ---
 
-### 🧐 About Me
+### About Me
 
-* 🔭 I focus on building modern web applications using **React.js** and **Next.js**.
-* 🎨 I possess a deep understanding of **CSS** (including Tailwind/SASS) to ensure precise design implementation.
-* 🚀 I am always eager to adopt the latest web technologies and best practices for performance optimization.
+* I focus on building modern web applications using **React.js** and **Next.js**.
+* I possess a deep understanding of **CSS** (including Tailwind/SASS) to ensure precise design implementation.
+* I am always eager to adopt the latest web technologies and best practices for performance optimization.
 
 ### 💡 A Note on My Repositories
 
@@ -42,7 +42,7 @@ I use this public GitHub primarily to:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BagusSetiawan09&show_icons=true&theme=tokyonight" alt="Stats" />
