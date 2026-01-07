@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am a software developer specialized in **Frontend Development**, with a passion for crafting responsive, interactive, and pixel-perfect user interfaces.
 
---
+---
 
 ### About Me
 
