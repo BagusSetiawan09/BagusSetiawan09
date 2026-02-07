@@ -20,14 +20,14 @@
 
 I am a versatile software engineer with a strong foundation in both **Frontend** and **Backend** development. My expertise lies in building modern, responsive web applications that are not only visually appealing but also performant and secure.
 
-* 🔭 **Current Focus:** Developing enterprise-grade applications using the **TALL stack** and **MERN stack** principles.
-* 💻 **Core Competency:** Deep understanding of **React.js / Next.js** for dynamic UIs and **Laravel** for powerful API-driven backends.
-* 🎨 **Design Philosophy:** I leverage **Tailwind CSS** to ensure precise design implementation and responsive user experiences.
-* ⚡ **Goal:** Always eager to adopt the latest web technologies and best practices for performance optimization.
+* **Current Focus:** Developing enterprise-grade applications using the **TALL stack** and **MERN stack** principles.
+* **Core Competency:** Deep understanding of **React.js / Next.js** for dynamic UIs and **Laravel** for powerful API-driven backends.
+* **Design Philosophy:** I leverage **Tailwind CSS** to ensure precise design implementation and responsive user experiences.
+* **Goal:** Always eager to adopt the latest web technologies and best practices for performance optimization.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend Development**
 <br>
