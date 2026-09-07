@@ -1,51 +1,67 @@
 <div align="center">
 
-<!-- TERMINAL COMPONENT (EFEK MENGETIK) -->
-<!-- Ganti parameter 'lines' di bawah untuk mengubah teks yang diketik -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=1F6F5F&background=0d1117&center=true&vCenter=true&width=600&height=150&lines=%24+Helloi'm%3B%20Bagus%20Setiawan;%24+role%3B%20Fullstack%20Developer;%24+status%3B%20%23Active;>_Initializing.exe..." alt="Terminal Typing Effect" />
+<!-- Typing animation header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Bagus+Setiawan;Full+Stack+Software+Engineer;Backend+%2B+Frontend+%7C+MERN+%26+TALL+Stack" alt="Typing SVG" />
 
-<p align="center">
-  <em>Bridging the gap between robust backend architectures and interactive frontend interfaces. <br> Passionate about clean code, scalability, and pixel-perfect design.</em>
-</p>
+### Bridging the gap between robust backend architectures and interactive frontend interfaces
+*Passionate about clean code, scalability, and pixel-perfect design.*
 
-<p align="center">
-  <a href="mailto:bagussetiawan.lz24@gmail.com" style="color: #00c6ff; text-decoration: none; font-weight: bold;">[ Email ]</a> &nbsp; | &nbsp;
-  <a href="https://linkedin.com/in/bagussetiawann" style="color: #00c6ff; text-decoration: none; font-weight: bold;">[ LinkedIn ]</a> &nbsp; | &nbsp;
-  <a href="https://github.com/BagusSetiawan09" style="color: #00c6ff; text-decoration: none; font-weight: bold;">[ GitHub ]</a>
-</p>
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagussetiawan.lz24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagussetiawann)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagusstwan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bagusstwn.vercel.app)
 
 </div>
 
-<br>
-<hr style="border: 1px solid #004e92;">
-<br>
+<br/>
 
-<h3 style="color: #00c6ff;">ABOUT ME</h3>
 
-I am a versatile software engineer with a strong foundation in both Frontend and Backend development. My expertise lies in building modern, responsive web applications that are not only visually appealing but also performant and secure.
+## About Me
 
-*   **Current Focus :** Developing enterprise-grade applications using the TALL stack and MERN stack principles.
-*   **Core Competency :** Deep understanding of React.js / Next.js for dynamic UIs and Laravel for powerful API-driven backends.
-*   **Design Philosophy :** Leveraging Tailwind CSS to ensure precise design implementation and responsive user experiences.
-*   **Goal :** Always eager to adopt the latest web technologies and best practices for performance optimization.
+I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise lies in building modern, responsive web applications that are not only visually appealing but also performant and secure.
 
-<br>
+- **Current focus:** developing enterprise-grade applications using the TALL stack and MERN stack principles.
+- **Core competency:** deep understanding of React.js and Next.js for dynamic UIs, and Laravel for API-driven backends.
+- **Design philosophy:** leveraging Tailwind CSS to ensure precise design implementation and responsive user experiences.
+- **Goal:** always eager to adopt the latest web technologies and best practices for performance optimization.
 
-<h3 style="color: #00c6ff;">TECH STACK & TOOLS</h3>
+<br/>
 
-**Frontend** <br>
-`React` `Next.js` `JavaScript` `Tailwind CSS` `CSS3`
+## Tech Stack & Tools
 
-**Backend** <br>
-`Laravel` `PHP` `MySQL` `Filament PHP`
+<div align="left">
 
-**Tools & Workflow** <br>
-`Git` `VS Code` `Postman`
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-<br>
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Filament_PHP-FDAE4B?style=flat-square&logo=laravel&logoColor=white" />
 
-<h3 style="color: #00c6ff;">GITHUB ANALYTICS</h3>
+**Tools & Workflow**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BagusSetiawan09&show_icons=false&hide_border=true&bg_color=00000000&title_color=00c6ff&text_color=c9d1d9" alt="GitHub Stats" />
+
+### Open to collaboration and interesting projects — feel free to reach out.
+
+<img src="https://komarev.com/ghpvc/?username=bagusstwan&style=flat-square&color=6EE7B7" alt="Profile views" />
+
 </div>
